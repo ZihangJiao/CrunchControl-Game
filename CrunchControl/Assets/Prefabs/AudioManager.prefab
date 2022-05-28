@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1777570075319420294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5901667492450994995}
+  - component: {fileID: 5165574574426317032}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5901667492450994995
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1777570075319420294}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5165574574426317032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1777570075319420294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f0f0e827c8cb3f429b34084d893c0f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioMixerMusic: {fileID: 24300002, guid: 01cdae4de9a8f3a4f9699767d894913c, type: 2}
+  audioMixerSoundFX: {fileID: 24300002, guid: 4f8abd9a3e3419e4c8f795f98f969d18, type: 2}
+  sounds:
+  - name: BackgroundMusic
+    clip: {fileID: 8300000, guid: 1f216e2c7757b624ca17a7fa8d418900, type: 3}
+    volume: 1
+    pitch: 0
+    loop: 1
+    audioMixerType: 1
+    source: {fileID: 0}
+  - name: SFXAction
+    clip: {fileID: 8300000, guid: 81a083114bf4a334ba4344055c81d339, type: 3}
+    volume: 1
+    pitch: 0
+    loop: 0
+    audioMixerType: 2
+    source: {fileID: 0}
+  - name: SFXButton
+    clip: {fileID: 8300000, guid: 62998e423557b1f48b94d75d9faf4a52, type: 3}
+    volume: 1
+    pitch: 0
+    loop: 0
+    audioMixerType: 2
+    source: {fileID: 0}
+  - name: TopDownMusic
+    clip: {fileID: 8300000, guid: 867d5c4befeac354d974eb74a978e329, type: 3}
+    volume: 1
+    pitch: 0
+    loop: 1
+    audioMixerType: 1
+    source: {fileID: 0}
+  - name: MainMenuMusic
+    clip: {fileID: 8300000, guid: 8566f71f6cf0f644982e6c26bd87f649, type: 3}
+    volume: 1
+    pitch: 0
+    loop: 1
+    audioMixerType: 1
+    source: {fileID: 0}

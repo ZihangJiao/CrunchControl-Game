@@ -1,0 +1,53 @@
+id,EnemyName,category,ability,description,health,movement
+1,Experienced Cleaner,Cleaners,All Low Level Cleaners gain an additional 2 health,NA,10,3
+1,Low Level Cleaner,Cleaners,If they have taken damage in a turn they don't move that turn,NA,4,4
+1,Low Level Cleaner,Cleaners,If they have taken damage in a turn they don't move that turn,NA,4,4
+2,Bucket Hat Cleaner,Cleaners,On defeat leaves spawns rusty bucket on space where they died,On defeat# leaves spawns rusty bucket on space where they died,14,2
+2,Cleaner With Cart,Cleaners,Doesn't move on first turn,Only moves 1 space on first turn,6,6
+3,Unpaid Intern,The Most Abused,Regenerates all health every turn,Regenerates all health every turn,5,4
+3,Unpaid Intern,The Most Abused,Regenerates all health every turn,Regenerates all health every turn,5,4
+3,Unpaid Intern,The Most Abused,Regenerates all health every turn,Regenerates all health every turn,5,4
+4,Telesales,The Most Abused,Reshuffle players hand after 3 turns,Reshuffle players hand after 3 turns,8,3
+4,Unpaid Intern,The Most Abused,Regenerates all health every turn,Regenerates all health every turn,5,4
+4,Cleaner With Cart,Cleaners,Doesn't move on first turn,Only moves 1 space on first turn,6,6
+5,Experienced Cleaner,Cleaners,All Low Level Cleaners gain an additional 2 health,NA,10,3
+5,Low Level Cleaner,Cleaners,If they have taken damage in a turn they don't move that turn,NA,4,4
+5,Low Level Cleaner,Cleaners,If they have taken damage in a turn they don't move that turn,NA,4,4
+5,Low Level Cleaner,Cleaners,If they have taken damage in a turn they don't move that turn,NA,4,4
+6,Bucket Hat Cleaner,Cleaners,On defeat leaves spawns rusty bucket on space where they died,On defeat# leaves spawns rusty bucket on space where they died,14,2
+6,Disgruntled IT Guy,,Locks out trap placement on tiles stepped on on previous turn,Forces the player to control this enemies position,11,2
+7,Receptionist,The Most Abused,Takes 1 energy per turn from the player while alive,Takes 1 energy per turn from the player while alive,7,3
+7,Receptionist,The Most Abused,Takes 1 energy per turn from the player while alive,Takes 1 energy per turn from the player while alive,7,3
+8,Receptionist,The Most Abused,Takes 1 energy per turn from the player while alive,Takes 1 energy per turn from the player while alive,7,3
+8,Unpaid Intern,The Most Abused,Regenerates all health every turn,Regenerates all health every turn,5,4
+8,Telesales,The Most Abused,Reshuffle players hand after 3 turns,Reshuffle players hand after 3 turns,8,3
+9,Receptionist,The Most Abused,Takes 1 energy per turn from the player while alive,Takes 1 energy per turn from the player while alive,7,3
+9,Cleaner With Cart,Cleaners,Doesn't move on first turn,Only moves 1 space on first turn,6,6
+9,Low Level Cleaner,Cleaners,If they have taken damage in a turn they don't move that turn,NA,4,4
+9,Low Level Cleaner,Cleaners,If they have taken damage in a turn they don't move that turn,NA,4,4
+10,Telesales,The Most Abused,Reshuffle players hand after 3 turns,Reshuffle players hand after 3 turns,8,3
+10,Disgruntled IT Guy,Locks out trap placement on tiles stepped on on previous turn,Forces the player to control this enemies position,Forces the player to control this enemies position,11,2
+11,Experienced Cleaner,Cleaners,All Low Level Cleaners gain an additional 2 health,NA,10,3
+11,Low Level Cleaner,Cleaners,If they have taken damage in a turn they don't move that turn,NA,4,4
+11,Unpaid Intern,The Most Abused,Regenerates all health every turn,Regenerates all health every turn,5,4
+12,Bucket Hat Cleaner,Cleaners,On defeat leaves spawns rusty bucket on space where they died,On defeat# leaves spawns rusty bucket on space where they died,14,2
+12,Cleaner With Cart,Cleaners,Doesn't move on first turn,Only moves 1 space on first turn,6,6
+12,Cleaner With Cart,Cleaners,Doesn't move on first turn,Only moves 1 space on first turn,6,6
+13,Time Dilater,Quantum Mechanists,Direct attacks have no effect on this enemy,Forces the player to use traps,6,3
+13,Length Contractor,Quantum Mechanists,Traps have no effect on this enemy,Tests the players skill of trap placement,6,3
+13,Quark Connoisseur,Quantum Mechanists,While enemy is alive other enemies move an additional space,Uses strong nuclear forces to force the slowest enemy to speed up,9,2
+14,Experienced Cleaner,Cleaners,All Low Level Cleaners gain an additional 2 health,NA,10,3
+,,,,,,
+id,EnemyName,category,ability,description,health,movement
+id,Low Level Cleaner,Cleaners,If they have taken damage in a turn they don't move that turn,NA,4,4
+id,Experienced Cleaner,Cleaners,All Low Level Cleaners gain an additional 2 health,NA,10,3
+id,Cleaner With Cart,Cleaners,Doesn't move on first turn,Only moves 1 space on first turn,6,6
+id,Bucket Hat Cleaner,Cleaners,On defeat leaves spawns rusty bucket on space where they died,On defeat# leaves spawns rusty bucket on space where they died,14,2
+id,Rusty Bucket,Cleaners,Any enemy that passes over it is moved 4 spaces forward,Any enemy that passes over it is moved 4 spaces forward,4,0
+id,Telesales,The Most Abused,Reshuffle players hand after 3 turns,Reshuffle players hand after 3 turns,8,3
+id,Unpaid Intern,The Most Abused,Regenerates all health every turn,Regenerates all health every turn,5,4
+id,Receptionist,The Most Abused,Takes 1 energy per turn from the player while alive,Takes 1 energy per turn from the player while alive,7,3
+id,Disgruntled IT Guy,Locks out trap placement on tiles stepped on on previous turn,Forces the player to control this enemies position,Forces the player to control this enemies position,11,2
+id,Time Dilater,Quantum Mechanists,Direct attacks have no effect on this enemy,Forces the player to use traps,6,3
+id,Length Contractor,Quantum Mechanists,Traps have no effect on this enemy,Tests the players skill of trap placement,6,3
+id,Quark Connoisseur,Quantum Mechanists,While enemy is alive other enemies move an additional space,Uses strong nuclear forces to force the slowest enemy to speed up,9,2

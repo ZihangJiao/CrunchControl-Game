@@ -1,0 +1,21 @@
+id,cardName,cost,description,damage,knockback,type
+1,Paper Plane,1,To poke the employees,1,1,0
+2,Flaming Paper Plane,2,A warmer poke,3,1,0
+3,Unsigned NDA,1,Delay your employees,0,2,1
+4,Sabotage IT Equipment,3,No pain compares to the loss of important files,5,0,0
+5,Broken Printer,4,Those sparks could hurt someone,4,2,1
+6,Missing Wet Floor Sign,2,Slippery# could fall,2,2,1
+7,Staple Gun,4,Take cover from the barrage of staples,1,3,0
+8,Bonus Pay Slip,3,This will hurt them inside,3,0,1
+9,Disappointing Memo,2,They really need to think about this,4,4,1
+10,Supercharged Hairdryer,4,Blow them away,0,6,0
+11,Malfunctioning Hairdryer,2,Blow them away# but it's on the wrong setting,0,-3,0
+12,Jar Of Marbles,3,Accelerate uncontrollably,0,-6,1
+13,Progress Report,1,Motivate yourself to do a bit better,0,0,2
+14,Unplanned Meeting,2,Make it up as you go,0,0,2
+15,Sign In Sheet,2,Send them back to get their information,0,4,1
+16,Quantum Paper Plane,5,Use quantum tunneling to its fullest,4,1,0
+17,Spare Lego Bricks,4,It fucking hurts to step on Lego,3,0,1
+18,Motivational Speech,3,You'll do better if your motivated,0,0,2
+19,Survival Guide,3,Learn to make traps with this helpful book,0,0,2
+20,Office Fan,5,A big hairdryer,1,7,1
